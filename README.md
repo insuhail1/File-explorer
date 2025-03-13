@@ -1,3 +1,9 @@
+# File Explorer
+with add file, folder and show childrens functionality
+
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/3bb6d1f5-4684-44f8-a8ae-6f20bdaea1c2" />
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
